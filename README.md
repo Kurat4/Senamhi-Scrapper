@@ -1,8 +1,6 @@
 
 # Script de Web Scraping del Clima del Dia 
 
-### *Precisar que se uso la informacion del Senamhi*
-
 Este pequeño script usa playwright ya que el metodo convencional de Requests para hacer peticiones http
 no contempla paginas con contenido generado dinamicamente con JS, es decir todo el HTML a usar debe de estar
 precargado en la pagina inicial y se usa BeatifulSoup para manejar el HTML que se obtiene y presentar 
@@ -29,6 +27,9 @@ precargado en la pagina inicial y se usa BeatifulSoup para manejar el HTML que s
 solamente la informacion necesaria. 
 
 <img width="862" height="511" alt="image" src="https://github.com/user-attachments/assets/586e9950-f244-4eef-b014-8f94f8d22031" />
+
+#### *Fuente : Senamhi*
+
 
 En esta parte final simplemente se guarda la informacion en un csv, lista para ser usada o presentada. 
 
