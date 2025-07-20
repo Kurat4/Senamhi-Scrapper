@@ -28,10 +28,8 @@ solamente la informacion necesaria.
 
 <img width="862" height="511" alt="image" src="https://github.com/user-attachments/assets/586e9950-f244-4eef-b014-8f94f8d22031" />
 
-#### *Fuente : Senamhi*
-
-
 En esta parte final simplemente se guarda la informacion en un csv, lista para ser usada o presentada. 
 
 <img width="676" height="173" alt="image" src="https://github.com/user-attachments/assets/cdfd1303-ed40-4e52-b138-e42923d32f5d" />
 
+#### *Fuente : Senamhi*
