@@ -32,4 +32,8 @@ En esta parte final simplemente se guarda la informacion en un csv, lista para s
 
 <img width="676" height="173" alt="image" src="https://github.com/user-attachments/assets/cdfd1303-ed40-4e52-b138-e42923d32f5d" />
 
+### CSV
+
+<img width="226" height="385" alt="image" src="https://github.com/user-attachments/assets/cabefa18-abfc-4940-84d1-262a33574f78" />
+
 #### *Fuente : Senamhi*
