@@ -1,7 +1,7 @@
 
-Script de Web Scraping del Clima del Dia 
+#Script de Web Scraping del Clima del Dia 
 
-*Precisar que se uso la informacion del Senamhi*
+###*Precisar que se uso la informacion del Senamhi*
 
 Este pequeño script usa playwright ya que el metodo convencional de Requests para hacer peticiones http
 no contempla paginas con contenido generado dinamicamente con JS, es decir todo el HTML a usar debe de estar
